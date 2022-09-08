@@ -8,7 +8,7 @@
   "main": "src/react-native-loading-dots.js",
   "dependencies": {},
   "peerDependencies": {
-    "react": "^16.8.6",
-    "react-native": "^0.68.2"
+    "react": ">=16.8.6",
+    "react-native": ">=0.68.2"
   }
 }
